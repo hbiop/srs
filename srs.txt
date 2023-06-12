@@ -1,0 +1,13 @@
+git clone https://github.com/pr22-106/pr-22_106.git
+git checkout 5392
+git checkout -b kopylov
+Перенести файл subjects
+git add .
+git commit -m "add subjects file"
+Изменить файл subjects
+git add .
+git commit -m "change subjects file"
+Перенести файл screen
+git add .
+git commit -m "add screen file"
+git push origin kopylov
